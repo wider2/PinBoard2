@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PinBoard</string>
+    <string name="no_connection">There is no internet connection found. Please check the network settings, setup WiFi.
+    </string>
+    <string name="msg_error_occurred">There is error occurred while implementing this request.</string>
+    <string name="network_settings">Network settings</string>
+    <string name="pin_no_data">There are no data found on selected pinю</string>
+    <string name="category">Category:</string>
+    <string name="likes">%s likes</string>
+    <string name="no_offline">No stored offline data found.</string>
+    <string name="cancel">Cancel</string>
+    <string name="reload">Reload</string>
+    <string name="reached_end">Reached end of the list.</string>
+    <string name="failed_load">Failed to load image: %s</string>
+
+</resources>
